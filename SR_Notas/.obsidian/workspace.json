@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PICOCTF/General Skills/Let´s Warm Up.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Let´s Warm Up"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PICOCTF/General Skills/Let´s Warm Up.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Let´s Warm Up"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PICOCTF/General Skills/Let´s Warm Up.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Let´s Warm Up"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PICOCTF/General Skills/Let´s Warm Up.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Let´s Warm Up"
+              "title": "Outline of README"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "dbf405790ed1dc1a",
   "lastOpenFiles": [
-    "README.md",
     "PICOCTF/General Skills/Let´s Warm Up.md",
+    "README.md",
     "PICOCTF/General Skills.md",
     "PICOCTF/General Skills",
     "PICOCTF",
