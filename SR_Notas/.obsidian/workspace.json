@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "PICOCTF/01 - General Skills/10 - Nice netcat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "10 - Nice netcat"
             }
           }
         ]
@@ -170,10 +170,20 @@
   },
   "active": "dbf405790ed1dc1a",
   "lastOpenFiles": [
-    "PICOCTF/General Skills/Let´s Warm Up.md",
+    "PICOCTF/01 - General Skills/06 - Obedient Cat.md",
+    "PICOCTF/01 - General Skills/10 - Nice netcat.md",
+    "PICOCTF/01 - General Skills/09 - Glitch cat.md",
+    "PICOCTF/01 - General Skills/02 - 2Warm.md",
+    "PICOCTF/01 - General Skills/08 - Plumbing.md",
+    "PICOCTF/01 - General Skills/07 - What's a net cat.md",
+    "PICOCTF/01 - General Skills/05 - First Grep.md",
+    "PICOCTF/01 - General Skills/04 - Bases.md",
+    "PICOCTF/01 - General Skills/03 - Warmed Up.md",
+    "PICOCTF/01 - General Skills/01 - Let´s Warm Up.md",
+    "PICOCTF/General Skills/Untitled",
     "README.md",
     "PICOCTF/General Skills.md",
-    "PICOCTF/General Skills",
+    "PICOCTF/01 - General Skills",
     "PICOCTF",
     "create a link.md"
   ]

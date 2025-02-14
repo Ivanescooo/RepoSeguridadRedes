@@ -17,8 +17,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 'p'
 
 
-pictoCTF{p}
-
 ```
 
 
@@ -34,8 +32,11 @@ Recipe: From Hex
 
 Output: p
 
+
 ```
 
+
+## Respuesta: **picoCTF{p}**
 
 
 Referencias
