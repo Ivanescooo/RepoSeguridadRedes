@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PICOCTF/02 - General Skills/01 - Based.md",
+                "file": "PICOCTF/03 - General Skills/07 - PW Crack 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Based"
+              "title": "07 - PW Crack 1"
             }
           }
         ],
@@ -183,8 +183,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd385fd3778293b6",
+  "active": "e9701d7d9deabe64",
   "lastOpenFiles": [
+    "PICOCTF/03 - General Skills/08 - PW Crack 2.md",
+    "PICOCTF/03 - General Skills/09 - PW Crack 3.md",
+    "PICOCTF/03 - General Skills/10 - Serpentine.md",
+    "PICOCTF/03 - General Skills/04 - Convertme.py.md",
+    "PICOCTF/03 - General Skills/03 - CodeBook.md",
+    "PICOCTF/03 - General Skills/02 - runme.py.md",
+    "PICOCTF/03 - General Skills/01 - Super SSH.md",
+    "PICOCTF/01 - General Skills/01 - Let´s Warm Up.md",
+    "PICOCTF/03 - General Skills/07 - PW Crack 1.md",
+    "PICOCTF/03 - General Skills/06 - fixme2.py.md",
+    "PICOCTF/03 - General Skills/05 - fixme1.py.md",
+    "PICOCTF/02 - General Skills/01 - Based.md",
+    "PICOCTF/03 - General Skills",
     "PICOCTF/02 - General Skills/02 - Strings it.md",
     "PICOCTF/02 - General Skills/03 - Wave a flag.md",
     "PICOCTF/02 - General Skills/04 - Static ain't always noise.md",
@@ -194,23 +207,14 @@
     "PICOCTF/02 - General Skills/08 - Repetitions.md",
     "PICOCTF/02 - General Skills/09 - Big zip.md",
     "PICOCTF/02 - General Skills/10 - First find.md",
-    "PICOCTF/02 - General Skills/01 - Based.md",
-    "PICOCTF/01 - General Skills/01 - Let´s Warm Up.md",
     "PICOCTF/01 - General Skills/10 - Nice netcat.md",
     "PICOCTF/01 - General Skills/09 - Glitch cat.md",
     "PICOCTF/01 - General Skills/08 - Plumbing.md",
     "PICOCTF/01 - General Skills/07 - What's a net cat.md",
     "PICOCTF/01 - General Skills/06 - Obedient Cat.md",
-    "PICOCTF/01 - General Skills/05 - First Grep.md",
-    "PICOCTF/01 - General Skills/03 - Warmed Up.md",
     "PICOCTF/02 - General Skills",
-    "PICOCTF/01 - General Skills/02 - 2Warm.md",
-    "PICOCTF/01 - General Skills/04 - Bases.md",
     "PICOCTF/General Skills/Untitled",
-    "README.md",
-    "PICOCTF/General Skills.md",
     "PICOCTF/01 - General Skills",
-    "PICOCTF",
-    "create a link.md"
+    "PICOCTF"
   ]
 }
