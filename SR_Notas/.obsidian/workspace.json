@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PICOCTF/Web 3/03 - JaWT Scratchpad.md",
+                "file": "PICOCTF/Web 4/01 - MatchTheRegex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - JaWT Scratchpad"
+              "title": "01 - MatchTheRegex"
             }
           }
         ],
@@ -199,9 +199,21 @@
   },
   "active": "10895bb83d517fba",
   "lastOpenFiles": [
-    "PICOCTF/Web 3/02 - More SQLi.md",
-    "PICOCTF/Web 3/03 - JaWT Scratchpad.md",
+    "PICOCTF/Web 4/04 - Most cookies.md",
+    "PICOCTF/Web 4/03 - Trickster.md",
+    "PICOCTF/Web 4/02 - SOAP.md",
+    "PICOCTF/Web 4/01 - MatchTheRegex.md",
     "PICOCTF/Web 3/01 - Irish-Name-Repo 1.md",
+    "PICOCTF/Web 3/02 - More SQLi.md",
+    "PICOCTF/Forensic 1/04 - Extensions.md",
+    "PICOCTF/Web 4",
+    "PICOCTF/Forensic 1/05 - What Lies Within.md",
+    "PICOCTF/Forensic 1/03 - Shark on wire 1.md",
+    "PICOCTF/Forensic 1/02 - So Meta.md",
+    "PICOCTF/Forensic 1/01- Glory of the Garden.md",
+    "PICOCTF/03 - General Skills/01 - Super SSH.md",
+    "PICOCTF/Web 3/03 - JaWT Scratchpad.md",
+    "PICOCTF/Forensic 1",
     "PICOCTF/Web 2/01 - GET aHEAD.md",
     "PICOCTF/Untitled.md",
     "PICOCTF/Web 3",
@@ -217,22 +229,10 @@
     "PICOCTF/Web 1",
     "PICOCTF/01 - General Skills/09 - Glitch cat.md",
     "PICOCTF/01 - General Skills/10 - Nice netcat.md",
-    "PICOCTF/General Skills/08 - Binary search.md",
-    "PICOCTF/General Skills/09 - Binhexa.md",
-    "PICOCTF/General Skills/10 - ASCII Numbers.md",
-    "PICOCTF/01 - General Skills/01 - Let´s Warm Up.md",
-    "PICOCTF/General Skills/07 - Collaborative Development.md",
-    "PICOCTF/General Skills/06 - Blame game.md",
-    "PICOCTF/General Skills/05 - Time machine.md",
-    "PICOCTF/General Skills/01 - Permissions.md",
-    "PICOCTF/General Skills/02 - Chrono.md",
-    "PICOCTF/General Skills/03 - Special.md",
-    "PICOCTF/General Skills/04 - Commitment Issues.md",
     "PICOCTF/General Skills",
     "PICOCTF/03 - General Skills",
     "PICOCTF/02 - General Skills",
     "PICOCTF/General Skills/Untitled",
-    "PICOCTF/01 - General Skills",
-    "PICOCTF"
+    "PICOCTF/01 - General Skills"
   ]
 }
