@@ -11,11 +11,18 @@ Make sure to submit the flag as picoCTF{XXXXX}
 
 ```
 
+(kali㉿kali)-[~/forensic/forensic1/extensions]
+└─$ mv flag.txt flag.png     
+                                                                                                          
+┌──(kali㉿kali)-[~/forensic/forensic1/extensions]
+└─$ open flag.png 
+
+se abre la imagen y muestra la bandera
 
 
 ```
 
 
 
-## Respuesta: **picoCTF{}**
+## Respuesta: **picoCTF{now_you_know_about_extensions}**
 
