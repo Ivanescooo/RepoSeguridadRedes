@@ -14,9 +14,7 @@ tener instalado zsteg
 y en consola escribir zsteg "nombre" de la imagen
 
 ┌──(kali㉿kali)-[~/forensic/forensic4/milkslap]
-└─$ 
-
-
+└─$ zsteg concat_v-png
 
 ```
 
