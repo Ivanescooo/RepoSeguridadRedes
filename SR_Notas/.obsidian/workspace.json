@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PICOCTF/Forensic 4/01 - Milkslap.md",
+                "file": "PICOCTF/Tareas/Tarea 3 - Forensic/01 - information.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Milkslap"
+              "title": "01 - information"
             }
           }
         ],
@@ -185,8 +185,22 @@
   },
   "active": "eb2183e13650fc6e",
   "lastOpenFiles": [
-    "PICOCTF/Forensic 4/02 - Disk, disk, sleuth!.md",
+    "PICOCTF/Tareas/Tarea 3 - Forensic/02 - St3g0.md",
+    "PICOCTF/Tareas/Tarea 3 - Forensic/03 - Redaction gone wrong.md",
+    "PICOCTF/Tareas/Tarea 3 - Forensic/04 - hideme.md",
+    "PICOCTF/Tareas/Tarea 3 - Forensic/05 - Scan Surprise.md",
+    "PICOCTF/Tareas/Tarea 3 - Forensic/06 - CanYouSee.md",
+    "PICOCTF/Tareas/Tarea 3 - Forensic/07 - Secret of the Polyglot.md",
+    "PICOCTF/Tareas/Tarea 3 - Forensic/08 - RED.md",
+    "PICOCTF/Tareas/Tarea 3 - Forensic/09 - Ph4nt0m 1ntrud3r.md",
+    "PICOCTF/Tareas/Tarea 3 - Forensic/10 - flags are stepic.md",
+    "PICOCTF/Tareas/Tarea 3 - Forensic/01 - information.md",
+    "PICOCTF/Tareas/Tarea 3 - Forensic/01 - Milkslap 1 3.md",
     "PICOCTF/Forensic 4/01 - Milkslap.md",
+    "PICOCTF/Tareas/Tarea 2 - Web/01 - Includes.md",
+    "PICOCTF/Tareas/Tarea 3 - Forensic",
+    "PICOCTF/Tareas",
+    "PICOCTF/Forensic 4/02 - Disk, disk, sleuth!.md",
     "PICOCTF/Forensic 4/06 - Operation Oni.md",
     "PICOCTF/Forensic 4/05 - Operation Orchid.md",
     "PICOCTF/Forensic 4/03 - Sleuthkit Intro.md",
@@ -202,26 +216,12 @@
     "Untitled.canvas",
     "2025-04-15.md",
     "PICOCTF/Examenes Parciales/Examen Parcial 1/General Skills/07 - dont-you-love-banners.md",
-    "README.md",
-    "PICOCTF/01 - General Skills/03 - Warmed Up.md",
-    "PICOCTF/01 - General Skills/06 - Obedient Cat.md",
     "Untitled 1.canvas",
-    "PICOCTF/Examenes Parciales/Examen Parcial 1/General Skills/04 - Rust fixme 1.md",
-    "PICOCTF/Examenes Parciales/Examen Parcial 1/General Skills/05 - Rust fixme 2.md",
-    "PICOCTF/Examenes Parciales/Examen Parcial 1/General Skills/02 - HashingJobApp.md",
-    "PICOCTF/01 - General Skills/04 - Bases.md",
-    "PICOCTF/01 - General Skills/05 - First Grep.md",
-    "PICOCTF/01 - General Skills/02 - 2Warm.md",
-    "PICOCTF/Examenes Parciales/Examen Parcial 1/General Skills/01 - FANTASY CTF.md",
-    "PICOCTF/Examenes Parciales/Examen Parcial 1/Web/10 - WebSockFish.md",
     "PICOCTF/Examenes Parciales.zip",
-    "PICOCTF/Examenes Parciales/Examen Parcial 1/Web/09 - SSTI2.md",
     "PICOCTF/Examenes Parciales/Examen Parcial 1/Web",
     "PICOCTF/Examenes Parciales/Examen Parcial 1/General Skills",
     "PICOCTF/Examenes Parciales/Examen Parcial 1",
     "PICOCTF/Examenes Parciales",
-    "PICOCTF/Forensic 2",
-    "PICOCTF/Web",
-    "PICOCTF/Web 4"
+    "PICOCTF/Forensic 2"
   ]
 }
